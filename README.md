@@ -1,13 +1,15 @@
-![Logo UNAHUR](./UNAHUR.png)
+![Logo UNAHUR](./)
+
 
 # Programación con objetos I
 ## Presentación Personal
 
 ### Datos Personales
 - Mi nombre es: Agustin Garcia
-- Vivo en
+- Vivo en Moron
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Soy hincha de Boca 
+- Me gusta el futbol
+- Me gusta la música de todo un poco pero si tengo que elegir un género elijo el rock nacional.

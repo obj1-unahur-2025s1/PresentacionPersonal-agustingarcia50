@@ -1,4 +1,4 @@
-![Logo UNAHUR](./escudoBoca.jpeg)
+![EscudoBoca](./EscudoBoca.jpeg)
 
 
 # Programación con objetos I
